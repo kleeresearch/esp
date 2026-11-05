@@ -1,0 +1,16 @@
+[
+  {
+    "institution": "Adelphi University",
+    "code": "EAS / ENV 102",
+    "terms": ["Fall 2026", "Spring 2027"],
+    "title": "Natural Science and Environmental Problems",
+    "description": ""
+  },
+  {
+    "institution": "University of Delaware",
+    "code": "SPPA 722",
+    "terms": ["Spring 2026"],
+    "title": "Machine Learning for Public Policy",
+    "description": ""
+  }
+]

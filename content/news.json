@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "adelphi-sustainability-campus-priority",
+    "date": "OCTOBER 27, 2026",
+    "title": "How Adelphi University Is Making Sustainability a Campus Priority",
+    "description": "Adelphi University highlights its expanding campus sustainability efforts, including the Office of Sustainability, the STARS initiative, and new opportunities for student engagement.",
+    "image": "assets/images/office-sustainability-adelphi.jpg",
+    "imageFit": "cover",
+    "body": [
+      "Adelphi University is expanding its commitment to a more sustainable campus through coordinated initiatives led by Dr. Kyungmin Lee, the University's inaugural director of sustainability and an assistant professor in the Department of Environmental Studies and Sciences.",
+      "A central part of this work is Adelphi's participation in the Sustainability Tracking, Assessment & Rating System (STARS). The initiative will bring together students, faculty, and staff to document existing accomplishments, assess sustainability performance across campus, and identify opportunities for future action.",
+      "The Sustainability Task Force will help coordinate assessment and reporting, while Sustainability Fellows will contribute to project development and implementation. Students are already participating in STARS data collection and helping shape campus sustainability priorities.",
+      "Adelphi is also developing new ways to integrate sustainability into student life and learning, including a sustainability-focused Living and Learning Community and a first-year seminar planned for Fall 2027."
+    ],
+    "gallery": ["assets/images/office-sustainability-adelphi.jpg"],
+    "source": "https://www.adelphi.edu/news/how-adelphi-university-is-making-sustainability-a-campus-priority/"
+  },
+  {
+    "slug": "office-of-sustainability-aashe-2026",
+    "date": "OCTOBER 2026",
+    "title": "Office of Sustainability at AASHE 2026 Conference",
+    "description": "Dr. Kyungmin Lee participated in the AASHE Conference, connecting with the higher education sustainability community and advancing campus sustainability assessment work.",
+    "image": "assets/images/aashe-conference-2026.jpg",
+    "body": [
+      "The Office of Sustainability participated in the 2026 AASHE Conference in Baltimore, Maryland, from October 4–6, to connect with the higher education sustainability community and strengthen Adelphi University's campus sustainability work.",
+      "The conference provided opportunities to learn from peer institutions, explore approaches to sustainability assessment and reporting, and identify strategies that can support future campus initiatives."
+    ],
+    "gallery": ["assets/images/aashe-conference-2026.jpg"]
+  },
+  {
+    "slug": "environmental-sustainability-policy-lab-launches",
+    "date": "SEPTEMBER 2026",
+    "title": "Environmental Sustainability Policy Lab launches at Adelphi University",
+    "description": "The Environmental Sustainability Policy Lab begins interdisciplinary research at the intersection of energy, environment, policy, sustainability, and data science.",
+    "image": "assets/images/environmental-sustainability-policy-lab-logo.png",
+    "imageFit": "contain",
+    "body": [
+      "The Environmental Sustainability Policy Lab launched at Adelphi University in Fall 2026.",
+      "The lab brings together environmental research, policy analysis, sustainability, and data science to develop evidence that can inform public decisions."
+    ],
+    "gallery": []
+  },
+  {
+    "slug": "adelphi-welcomes-new-faculty-2026-2027",
+    "date": "SEPTEMBER 2026",
+    "title": "Adelphi University Welcomes New Faculty for 2026–2027",
+    "description": "Adelphi University welcomes Dr. Kyungmin Lee as an assistant professor in Environmental Studies and Sciences and sustainability director.",
+    "image": "assets/images/adelphi-new-faculty-2026.jpg",
+    "imageFit": "cover",
+    "body": [
+      "Adelphi University welcomed its new faculty for the 2026–2027 academic year, including Dr. Kyungmin Lee, assistant professor in the Department of Environmental Studies and Sciences and sustainability director.",
+      "Dr. Lee's research spans energy policy, climate policy, urban sustainability, and community development using qualitative and quantitative methods. Her recent work applies artificial intelligence to large-scale image analysis to understand public responses to environmental issues.",
+      "Dr. Lee holds a doctoral degree in energy and environmental policy, a master's degree in environmental studies, and a bachelor's degree in economics."
+    ],
+    "gallery": ["assets/images/adelphi-new-faculty-2026.jpg"],
+    "source": "https://www.adelphi.edu/news/adelphi-university-welcomes-new-faculty-for-2026-2027/"
+  }
+]

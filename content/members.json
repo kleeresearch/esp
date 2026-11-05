@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "kyungmin-lee",
+    "name": "Dr. Kyungmin Lee",
+    "initials": "KL",
+    "role": "Principal Investigator",
+    "affiliation": "Assistant Professor, Department of Environmental Studies and Sciences; Sustainability Director, Office of Sustainability, Adelphi University",
+    "interests": "Energy and environmental policy, sustainability analytics, artificial intelligence, satellite and thermal imagery, and computational social science",
+    "photo": "assets/images/kyungmin-lee-profile.jpg",
+    "bio": [
+      "Dr. Kyungmin Lee is an Assistant Professor in the Department of Environmental Studies and Sciences and Sustainability Director at Adelphi University.",
+      "Her research examines energy and environmental policy, climate policy, urban sustainability, sustainability analytics, and community development. She integrates qualitative and quantitative methods with artificial intelligence, computational social science, and satellite and thermal imagery.",
+      "Her current projects investigate urban heat and cooling infrastructure, the environmental impacts of data centers, thermal imaging of energy systems, and evidence-based campus sustainability."
+    ],
+    "links": [
+      {"label":"CV","url":"assets/files/kyungmin-lee-cv.pdf"},
+      {"label":"Email","url":"mailto:kylee@adelphi.edu"},
+      {"label":"ORCID","url":"https://orcid.org/0000-0001-9599-6362"},
+      {"label":"Google Scholar","url":"https://scholar.google.com/citations?user=06i8-GQAAAAJ&hl=en"}
+    ]
+  },
+  {
+    "slug": "linda-beneventano",
+    "name": "Linda Beneventano",
+    "initials": "LB",
+    "role": "Master's Student",
+    "affiliation": "M.S. Student in Environmental Studies, Adelphi University",
+    "interests": "Environmental policy, sustainability, environmental impacts of data centers, urban heat, and interdisciplinary environmental analysis",
+    "photo": "",
+    "bio": [
+      "Linda Beneventano is a master's student in Environmental Studies at Adelphi University and a graduate researcher in the Environmental Sustainability Policy Lab.",
+      "Her research interests include environmental policy, sustainability, the environmental impacts of data centers, urban heat, and emerging environmental challenges.",
+      "Her work combines environmental studies with sensing, geospatial analysis, and interdisciplinary sustainability research."
+    ],
+    "links": []
+  }
+]
